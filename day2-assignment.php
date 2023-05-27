@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>PHP Test</title>
+    <title>Day 2 Assignment/title>
   </head>
   <body>
 <?php
